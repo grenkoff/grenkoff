@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grenkoff
 - 👀 I’m interested in math, coding, chess, football
-- 🌱 I’m currently learning Python, Django, SQL, Leetcode
+- 🌱 I’m currently learning Python, Django, Go, SQL, Leetcode
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
