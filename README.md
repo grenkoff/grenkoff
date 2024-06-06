@@ -11,7 +11,8 @@ body {
 ### Hello there 👋
 
 #### A Backend Developer day by day
-
+𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
+I'm mostly active within the Django Community
 * 🐍 I use daily `.py`, `.go`, `.html`, `.css`
 * 💗 I'm mostly active within the **Django Community**
 * 🦫 `ping` me about **python**, **django**, **backend**, **development**, **critical thinking**, **chess**
