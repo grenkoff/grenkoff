@@ -8,3 +8,7 @@
 * 📯 reach me with Telegram [@agrenkoff](https://www.t.me/agrenkoff) or [a.grenkov@gmail.com](mailto:a.grenkov@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=grenkoff&abbreviated=true)
+
+<details>
+🍯<summary>Don't open</summary>
+</details>
