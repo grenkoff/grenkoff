@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @grenkoff
-- 👀 I’m interested in math, coding, chess, football
-- 🌱 I’m currently learning Python, Django, Go, SQL, Leetcode
-<!---- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
+### Hello there 👋
 
-<!---
-grenkoff/grenkoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### A Backend Developer day by day
+
+* 🐍 I use daily `.py`, `.go`, `.html`, `.css`
+* 💗 I'm mostly active within the **Django Community**
+* 🦫 `ping` me about **python**, **django**, **backend**, **development**, **critical thinking**, **chess**
+* 📯 reach me with Telegram [@agrenkoff](https://www.t.me/agrenkoff) or [a.grenkov@gmail.com](mailto:a.grenkov@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=grenkoff&abbreviated=true)
