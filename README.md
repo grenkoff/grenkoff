@@ -11,5 +11,5 @@
 
 <details>
 <summary>Don't open</summary>
-<image src="images/honeypot.jpg" alt="Honey Pot">
+<image src="images/honeypot.png" alt="Honey Pot">
 </details>
