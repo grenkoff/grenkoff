@@ -2,7 +2,7 @@
 
 #### A Backend Developer day by day
 
-* 🐍 I use daily `.py`, `.go`, `.html`, `.css`, `.js`
+* 🐍 I use daily `.py`, `.go`, `.sh`, `.html`, `.css`, `.js`, `.json`
 * 🐻‍❄️ I have been dealing with `.lua`, `.c`, `.rs`, `.dart`
 * 💗 I'm mostly active within the **Django Community**
 * 🐊 `ping` me about **python**, **django**, **backend**, **development**, **critical thinking**, **chess**
