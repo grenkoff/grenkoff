@@ -10,6 +10,6 @@
 ![](https://komarev.com/ghpvc/?username=grenkoff&abbreviated=true)
 
 <details>
-<summary>Don't open</summary>
+<summary>Do not open</summary>
 <image src="images/honeypot.png" alt="Honey Pot">
 </details>
